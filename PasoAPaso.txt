@@ -1,3 +1,34 @@
 /*
     Página web para matemáticas
 */
+
+1. Subir y crear a repositorio: git init
+                                git remote add origin https://github.com/Manuelowsky/proyectoPaginaMatematicas.git
+                                git status 
+                                git add .
+                                git commit -m "Se agregaron las rutas y archivos de configuracion"
+                                git push origin master
+
+/* Figuras geométricas */
+
+2. Crear el archivo: figuras.html
+
+3. Crear el archivo: figuras.js
+
+/* Precios y descuentos */
+
+4. 
+
+5.
+
+/* Promedio, moda y mediana */
+
+6.
+
+7.
+
+/* Análisis salarial */
+
+8.
+
+9.  
