@@ -17,18 +17,28 @@
 
 /* Precios y descuentos */
 
-4. 
+4. Crear el archivo: descuentos.html
 
-5.
+5. Crear el archivo: descuentos.js
 
 /* Promedio, moda y mediana */
 
-6.
+6. Crear el archivo: promedio.html
 
-7.
+7. Crear el archivo: promedio.js
+
+8. Crear el archivo: mediana.html
+
+9. Crear el archivo: mediana.js
+
+10. Crear el archivo: moda.html
+
+11. Crear el archivo: moda.js
 
 /* Análisis salarial */
 
-8.
+12. salarios.html   
 
-9.  
+13. salarios.js
+
+14. analisis.js
